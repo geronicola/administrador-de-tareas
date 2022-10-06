@@ -1,0 +1,16 @@
+{
+  "categorias": [
+    {
+      "id": 1663806144087,
+      "nombre": "Perros"
+    },
+    {
+      "id": 1665073410308,
+      "nombre": "Gatos"
+    },
+    {
+      "id": 1665073553397,
+      "nombre": "Tortugas"
+    }
+  ]
+}
